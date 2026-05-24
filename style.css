@@ -140,6 +140,10 @@ html {
         width: 160px;
         height: 320px;
     }
+
+    .features-column {
+        margin-left: 0;
+    }
 }
 
 @media (max-width: 480px) {
